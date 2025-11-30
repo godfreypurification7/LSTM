@@ -1,0 +1,1 @@
+LSTMRNN concept. The code implemented LSTMRNN algorithms in the form of Word Embedding, involving importing library pandas, tensorflow, keras. Also declaring the vocabulary size (unique words) to find out the Index on the basis of voc_size. The model accuracy is .90. 
